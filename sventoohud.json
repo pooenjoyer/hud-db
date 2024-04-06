@@ -1,0 +1,60 @@
+{
+  "name": "SventooHUD",
+  "": "A custom tf2 hud ",
+  "author": "pooenjoyer",
+  "contributors": [
+    "boobsy",
+    "sevin"
+  ],
+  "releaseDate": "4/6/24",
+  "resources": [
+    "background by u/smiley-daniel",
+    "Sevin creator of 7hud"
+  ],
+  "flags": [
+    "scoreboards"
+  ],
+  "tags": [
+    "colorful"
+  ],
+  "repo": "https://github.com/pooenjoyer/SventooHUD",
+  "hash": "a1074622ea2ce67de54dca2a9df5199517bb0a79",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "https://steamcommunity.com/id/strongspermgreekgod/",
+    "twitter": "pooenjoyer0",
+    "discord": "pooenjoyer"
+  },
+  "traits": {
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pl",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}
